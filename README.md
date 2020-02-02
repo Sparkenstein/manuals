@@ -1,4 +1,5 @@
 # manuals
 
 ## Boilerplates
- - [tailwindCSS](./tailwindcss) 
+
+- [tailwindCSS](./tailwindcss)

@@ -41,3 +41,13 @@ add this script to package.json build css
 ```
 postcss index.css -o build.css
 ```
+
+Add this to index.css
+```
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+```
+Make sure you import "build.css" not index.css

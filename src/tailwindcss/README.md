@@ -51,3 +51,11 @@ Add this to index.css
 @tailwind utilities;
 ```
 Make sure you import "build.css" not index.css
+
+
+test with
+```html
+<button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+  Button
+</button>
+```

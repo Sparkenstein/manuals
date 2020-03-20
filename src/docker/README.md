@@ -1,5 +1,9 @@
 # Everything docker
 
+## Installing Docker
+### Ubuntu/Debian:
+- Follow [this](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04) link.
+
 
 ## Create image from dockerfile
 - create Dockerfile

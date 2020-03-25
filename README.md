@@ -13,3 +13,6 @@
 
 ## Vagrant
 -   [vagrant](./src/vagrant)
+
+## Linux Stuff
+- [command line tricks](./src/cmd)

@@ -16,3 +16,6 @@
 
 ## Linux Stuff
 - [command line tricks](./src/cmd)
+
+## Databases
+- [redis](./src/redis)

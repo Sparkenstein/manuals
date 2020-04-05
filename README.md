@@ -16,6 +16,7 @@
 
 ## Linux Stuff
 - [command line tricks](./src/cmd)
+- [transferring ssh files](./src/ssh)
 
 ## Databases
 - [redis](./src/redis)

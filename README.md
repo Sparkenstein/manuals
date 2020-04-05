@@ -20,3 +20,7 @@
 
 ## Databases
 - [redis](./src/redis)
+
+## Languages
+- [JavaScript](./src/javascript)
+- [Python](./src/python)

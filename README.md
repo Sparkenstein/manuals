@@ -16,7 +16,12 @@
 
 ## Linux Stuff
 - [command line tricks](./src/linux/cmd)
+- [ffmpeg](./src/linux/ffmpeg)
 - [transferring ssh files](./src/linux/ssh)
+
+## Toold
+- [git](./src/git)
+
 
 ## Databases
 - [redis](./src/redis)

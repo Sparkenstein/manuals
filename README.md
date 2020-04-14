@@ -15,8 +15,8 @@
 -   [vagrant](./src/vagrant)
 
 ## Linux Stuff
-- [command line tricks](./src/cmd)
-- [transferring ssh files](./src/ssh)
+- [command line tricks](./src/linux/cmd)
+- [transferring ssh files](./src/linux/ssh)
 
 ## Databases
 - [redis](./src/redis)

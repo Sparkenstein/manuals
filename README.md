@@ -19,7 +19,7 @@
 - [ffmpeg](./src/linux/ffmpeg)
 - [transferring ssh files](./src/linux/ssh)
 
-## Toold
+## Tools
 - [git](./src/git)
 
 

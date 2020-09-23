@@ -9,7 +9,7 @@ docker run --name neo4j \
 -v ~/docker/volumes/neo4j/data:/data \
 -v ~/docker/volumes/neo4j/logs:/logs \
 -v ~/docker/volumes/neo4j/import:/var/lib/neo4j/import \
--v ~/docker/volumes/neo4j/pugins:/plugins \
+-v ~/docker/volumes/neo4j/plugins:/plugins \
 --env NEO4J_AUTH=neo4j/test \
 neo4j:latest
 ```

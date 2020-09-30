@@ -20,3 +20,7 @@ or
 ```
 openssl rand -base64 32
 ```
+
+
+### Check if virtualization is enabled
+```grep -E --color 'vmx|svm' /proc/cpuinfo```

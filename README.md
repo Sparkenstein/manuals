@@ -9,7 +9,9 @@
 -   [postgres](./src/postgres)
 -   [mongodb](./src/mongodb)
 -   [neo4j](./src/neo4j)
+-   [couchdb](./src/couchdb)
 -   [docker help](./src/docker)
+
 
 
 ## Vagrant

@@ -3,6 +3,13 @@
 steps are similar to postgres.
 
 ## Install Clients
+DDL [preferred]: 
+direct download deb or rpm from 
+```
+https://www.mongodb.com/try/download/community?tck=docs_server
+```
+
+dpkg (may get older versions):
 
 ```
 sudo apt-get install mongodb-clients

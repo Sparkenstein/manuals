@@ -17,3 +17,9 @@ Where
 ```
 ffmpeg -i input.mkv -codec copy output.mp4
 ```
+
+## Compress size without affecting quality
+
+```sh
+ ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
+ ```

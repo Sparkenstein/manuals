@@ -23,3 +23,7 @@ ffmpeg -i input.mkv -codec copy output.mp4
 ```sh
  ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4
  ```
+
+
+Cheat sheet:
+https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730
